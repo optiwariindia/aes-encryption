@@ -1,0 +1,20 @@
+{
+  "name": "aes-encryption",
+  "version": "1.0.0",
+  "description": "Simple AES Encryption without using third party",
+  "license": "ISC",
+  "author": "Om Prakash Tiwari<optiwari.india@gmail.com>",
+  "type": "module",
+  "main": "utils/index.js",
+  "scripts": {
+    "test": "nodemon utils/start.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "keywords": [
+    "AES Encryption Using NodeJS",
+    "AES",
+    "Encryption"
+  ]
+}
