@@ -1,17 +1,17 @@
-# aes-encryption
+# encryption-aes
 
 A library to perform AES encryption and decryption in Node JS Applications using the `crypto` module and aes-256-gcm algorithm.
 
 ## Installation
 
 ```bash
-npm install aes-encryption
+npm install encryption-aes
 ```
 
 ## Usage
 
 ```javascript
-import {encrypt,decrypt,Key} from 'aes-encryption';
+import {encrypt,decrypt,Key} from 'encryption-aes';
 
 const key = Buffer.from(Key, 'base64'); // Use the predefined key from env variable. Generate for one during application setup.
 

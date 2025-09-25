@@ -1,5 +1,5 @@
 {
-  "name": "aes-encryption",
+  "name": "encryption-aes",
   "version": "1.0.0",
   "description": "Simple AES Encryption without using third party",
   "license": "ISC",
