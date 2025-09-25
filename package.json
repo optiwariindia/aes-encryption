@@ -16,5 +16,13 @@
     "AES Encryption Using NodeJS",
     "AES",
     "Encryption"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/optiwariindia/aes-encryption/issues"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optiwariindia/aes-encryption.git"
+  },
+  "homepage": "https://github.com/optiwariindia/aes-encryption#readme"
 }
